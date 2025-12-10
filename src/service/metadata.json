@@ -1,0 +1,7 @@
+{
+  "name": "Pedagosys web",
+  "description": "Một nền tảng quản lý giáo dục tích hợp với học tập trực tuyến và hỗ trợ AI cho giáo viên và học sinh tại Việt Nam, dựa trên Chương trình Giáo dục Phổ thông.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

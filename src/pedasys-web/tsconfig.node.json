@@ -1,0 +1,45 @@
+{
+  "compilerOptions": {
+    // === BẮT BUỘC để dùng Project References ===
+    "composite": true,
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
+
+    // === Cho phép emit (sửa lỗi 2) nhưng không sinh ra file .js rác ===
+    "noEmit": false,                    // phải false hoặc bỏ đi
+    "emitDeclarationOnly": true,        // chỉ sinh ra file .d.ts (rất gọn)
+    "outDir": "./dist-node",            // thư mục xuất tạm, sẽ bị .gitignore tự động bỏ qua
+    "declaration": true,                // bắt buộc khi dùng emitDeclarationOnly
+    "declarationMap": true,             // hỗ trợ tốt hơn cho IDE
+
+    // === Các option gốc của Vite template (giữ nguyên) ===
+    "target": "ES2023",
+    "lib": ["ES2023"],
+    "module": "ESNext",
+    "types": ["node"],
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,   // Vite cần true, không ảnh hưởng gì ở đây
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+
+    /* Strictness & Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedSideEffectImports": true
+  },
+
+  // Chỉ cần type-check vite.config.ts và các file config khác
+  "include": [
+    "vite.config.ts",
+    "env.d.ts",
+    ".vitepress/**/*",
+    "**/*.ts"
+  ],
+
+  // Đảm bảo thư mục xuất không làm bẩn project
+  "exclude": ["node_modules", "dist", "dist-node"]
+}

@@ -1,0 +1,51 @@
+- Phạm vi kiến thức: Trong chương trình phổ thông là chính. Có thể mở rộng thêm sang chương trình của các cấp thấp hoặc cao hơn tùy thuộc vào hoàn cảnh.
+    Toán học: 
+Mạch kiến thức,Nội dung cốt lõi & Trọng tâm,Công cụ Toán học (Ví dụ)
+Đại số & Giải tích,"- Hàm số (Bậc 2, Lượng giác, Mũ, Logarit).- Giải tích: Giới hạn, Đạo hàm, Tích phân (Lớp 11, 12).- Phương trình & Bất phương trình.",y=f(x); limx→∞​f(x)∫ab​f(x)dx
+Hình học & Đo lường,"- Hệ thức lượng trong tam giác.- Vectơ và các phép toán.- Hình học không gian (Quan hệ song song, vuông góc).- Hình học tọa độ (Oxy, Oxyz).",$\vec{u} \cdot \vec{v} =
+Thống kê & Xác suất,"- Các số đặc trưng đo xu thế trung tâm/độ phân tán.- Xác suất có điều kiện, biến ngẫu nhiên rời rạc.- Phân tích dữ liệu mẫu.",$P(A
+Chuyên đề học tập,- Hệ phương trình nhiều ẩn.- Ứng dụng Toán trong Tài chính/Kinh tế.,Lãi kép A=P(1+r)n
+
+    Môn Ngữ Văn (Công cụ giao tiếp & Thẩm mỹ)
+Chuyển từ "học thuộc văn mẫu" sang "kỹ năng đọc hiểu theo thể loại".
+Trục Đọc hiểu (Quan trọng nhất):
+Văn bản Văn học: Thần thoại, Sử thi, Thơ (Đường luật, Tự do), Truyện ngắn, Tiểu thuyết, Kịch. Yêu cầu: Phân tích được đặc trưng thể loại (nhân vật, cốt truyện, ngôn ngữ).
+Văn bản Nghị luận: Nghị luận xã hội & Nghị luận văn học. Yêu cầu: Nhận diện luận điểm, lý lẽ, bằng chứng.
+Văn bản Thông tin: Bản tin, phóng sự, văn bản thuyết minh.
+Trục Viết: Viết nghị luận xã hội (về một tư tưởng đạo lý/hiện tượng đời sống) và Viết nghị luận văn học (phân tích tác phẩm ngoài sách giáo khoa).
+
+    Môn Tiếng Anh (Giao tiếp quốc tế)
+Hệ thống chủ điểm: Cuộc sống cá nhân, Cộng đồng, Môi trường, Công nghệ, Đa văn hóa.
+Ngữ pháp cốt lõi: Các thì (Tenses), Câu điều kiện (Conditionals), Mệnh đề quan hệ (Relative clauses), Câu bị động (Passive voice).
+Kỹ năng:
+Receptive skills: Đọc hiểu ý chính/chi tiết, Nghe lấy thông tin cụ thể.
+Productive skills: Viết đoạn văn/bài luận (Essay), Thuyết trình.
+
+    Môn Vật Lý:
+Mạch nội dung,Kiến thức trọng tâm,Công thức/Khái niệm điển hình
+Cơ học,"- Động học & Động lực học.- Công, Năng lượng, Công suất.- Động lượng.",F=ma; W=∫Fdxp=mv
+Nhiệt học,- Mô hình động học phân tử.- Các định luật chất khí.- Nội năng.,pV=nRTΔU=A+Q
+Điện & Từ,"- Điện trường, Từ trường.- Dòng điện xoay chiều, Dao động điện từ.",$E = k\frac{
+Vật lí hiện đại,"- Vật lí hạt nhân (Phóng xạ, Phản ứng hạt nhân).- Lưỡng tính sóng hạt.",E=mc2λ=ph​
+
+    Môn Hóa Học (Cấu trúc & Biến đổi chất)Cấu tạo chất (Nền tảng):
+Cấu tạo nguyên tử (Orbital $s, p, d, f$), Bảng tuần hoàn, Liên kết hóa học (Ion, Cộng hóa trị, Hydrogen, Van der Waals).Năng lượng & Tốc độ:Biến thiên Enthalpy ($\Delta_r H^0_{298}$) để xác định phản ứng tỏa/thu nhiệt.Tốc độ phản ứng & Cân bằng hóa học (Nguyên lý Le Chatelier).
+Hóa Vô cơ: Tính chất, ứng dụng của các nhóm kim loại (IA, IIA), phi kim (Halogen, Nitrogen, Sulfur) trong công nghiệp.Hóa Hữu cơ: Phổ hồng ngoại (IR) để xác định nhóm chức. Hydrocarbon, Dẫn xuất Halogen, Alcohol, Aldehyde, Carboxylic acid, Ester, Polymer.
+
+    Môn Sinh Học (Sự sống & Công nghệ)Sinh học tế bào:
+ Cấu trúc tế bào nhân sơ/nhân thực, Chuyển hóa vật chất & năng lượng (Hô hấp tế bào, Quang hợp).Vi sinh vật & Virus: Công nghệ vi sinh, miễn dịch.
+ Di truyền & Biến dị:Cơ chế phân tử: DNA $\rightarrow$ RNA $\rightarrow$ Protein $\rightarrow$ Tính trạng.Quy luật di truyền (Mendeleev, Liên kết gen).
+Tiến hóa & Sinh thái: Học thuyết tiến hóa tổng hợp, Hệ sinh thái, Dòng năng lượng, Bảo vệ môi trường.
+
+    Môn Lịch Sử (Tư duy hệ thống & Đa chiều)
+Không còn học theo kiểu "niên đại sự kiện" thuần túy, mà học theo Chủ đề và Chuyên đề.
+Lịch sử Thế giới:
+Các cuộc cách mạng công nghiệp (4.0).
+Văn minh thế giới (Ai Cập, Hy Lạp - La Mã, Phục Hưng...).
+Chiến tranh bảo vệ tổ quốc và hòa bình thế giới.
+
+Lịch sử Việt Nam:
+Văn minh sông Hồng, văn minh Champa, văn minh Phù Nam.
+Công cuộc dựng nước và giữ nước (Các triều đại phong kiến).
+Lịch sử hiện đại: Các cuộc kháng chiến chống Pháp, Mỹ và công cuộc Đổi mới.
+Chuyên đề sâu (Lớp 11, 12): Lịch sử nghệ thuật, Đô thị hóa, Lịch sử tín ngưỡng tôn giáo, Hồ sơ chủ quyền biển đảo.

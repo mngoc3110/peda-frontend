@@ -1,0 +1,13 @@
+- Định dạng: Markdown chuẩn.
+- Kí hiệu: Dùng LaTeX ($...$).
+- Cấu trúc trắc nghiệm: Câu hỏi -> 4 đáp án (A,B,C,D).
+- Cấu trúc đúng sai: Câu hỏi -> 2 lựa chọn (ĐÚNG/SAI)
+- Cấu trúc tự luận: Câu hỏi -> Trả lời ngắn ( Lưu ý những câu có số thập phân phải quy định lấy từ đơn vị hay số thập phân thứ mấy).
+- Phân loại: Nhận biết - Thông hiểu - Vận dụng - Vận dụng cao.
+- Kiến thức chuyên môn, cách thức lấy kiến thức soạn đề lấy theo file 6_rule_scope.
+- Ma trận mức độ nhận thức (Dùng trong kiểm tra/đánh giá)
+Khi nói về "ma trận kiến thức" trong các bài thi (giữa kỳ, cuối kỳ, tốt nghiệp), kiến thức được phân tầng theo thang Bloom:
+Nhận biết (40%): Nhớ lại các khái niệm, định nghĩa, công thức cơ bản.
+Thông hiểu (30%): Giải thích được ý nghĩa, tóm tắt được nội dung, hiểu bản chất vấn đề.
+Vận dụng (20%): Áp dụng kiến thức đã học vào tình huống quen thuộc hoặc bài toán cơ bản.
+Vận dụng cao (10%): Giải quyết các vấn đề mới, phức tạp, thực tế hoặc liên môn
